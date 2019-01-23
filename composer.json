@@ -1,0 +1,14 @@
+{
+    "name": "albertotain/redsys",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AlbertoTain\\Redsys\\": "src/"
+        }
+    }
+
+
+}
